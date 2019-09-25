@@ -55,8 +55,8 @@ header.startup h1 {
 .btn-primary {
   background-color: #F05F44;
   border-color: #F05F44; 
-  grid-column-start : 6 ;
-  grid-column-end: 7;
+  grid-column-start : 10 ;
+  grid-column-end: 13;
 }
 
 .btn-primary:hover {
